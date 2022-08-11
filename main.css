@@ -4,6 +4,10 @@ html {
     font-weight: 300;
 }
 
+li{  
+    display:inline-block;
+}
+
 a {
     text-decoration: none;
     color: #1565c0;
