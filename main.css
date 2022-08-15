@@ -15,6 +15,7 @@ html {
   font-size: 17px;
 } */
 .navbar li {
+  float:left;
   display: block;
   padding: 14px 16px;
   list-style-type: none;
