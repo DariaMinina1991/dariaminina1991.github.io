@@ -43,11 +43,6 @@ a:hover {
 .avatar {
     width: 160px;
     position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    right: 50%;
-    margin: auto;
 }
 
 .icons {
