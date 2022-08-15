@@ -16,7 +16,7 @@ html {
 } */
 .navbar li {
   display: block;
-  padding: 8px;
+  padding: 14px 16px;
   list-style-type: none;
 }
 
