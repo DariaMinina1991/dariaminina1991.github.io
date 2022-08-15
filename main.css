@@ -5,7 +5,7 @@ html {
 }
 
 .navbar a {
-/*   float: none; */
+  float: none;
   display: block;
   list-style-type: none;
   color: #f2f2f2;
