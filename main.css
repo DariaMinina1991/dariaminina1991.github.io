@@ -3,7 +3,7 @@ html {
     font-size: larger;
     font-weight: 300;
 }
-
+/* 
 .navbar a {
   float: left;
   display: block;
@@ -13,7 +13,7 @@ html {
   padding: 8px;
   text-decoration: none;
   font-size: 17px;
-}
+} */
 .navbar li {
   display: block;
   list-style-type: none;
