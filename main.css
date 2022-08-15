@@ -15,7 +15,7 @@ html {
 .navbar li {
   float:left;
   display: block;
-  padding: 0px 8px;
+  padding: 0px 16px;
   list-style-type: none;
 }
 
