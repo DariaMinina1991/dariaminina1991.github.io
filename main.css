@@ -42,7 +42,7 @@ a:hover {
 
 .avatar {
     width: 160px;
-    position: absolute;
+    position: relative;
 }
 
 .icons {
