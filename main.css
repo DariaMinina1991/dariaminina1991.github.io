@@ -28,6 +28,11 @@ a:hover {
     color: #217ee7;
 }
 
+.row a {
+/*   float: left; */
+  top: 40px  
+} 
+
 .content {
     position: relative;
     top: 40px;
