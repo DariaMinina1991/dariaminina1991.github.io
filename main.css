@@ -48,7 +48,7 @@ a:hover {
 .avatar {
     width: 160px;
     display: inline-block;
-    vertical-align: middle;
+    horizontal-align: middle;
 /*     position: relative; */
 }
 
