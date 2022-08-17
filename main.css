@@ -28,10 +28,11 @@ a:hover {
     color: #217ee7;
 }
 
-/* .row a {
-/*   float: left; */
-  top: 40px  
-}  */
+.row a {
+/*     float: left; */
+    position: fixed
+    top: 40px  
+} 
 
 .content {
     position: fixed;
