@@ -50,7 +50,7 @@ a:hover {
     width: 80px;
 /*     display: inline-block;
     horizontal-align: middle; */
-    position: relative;
+    position: absolute;
     left: 50%;
     top:20%;
 }
