@@ -52,6 +52,7 @@ a:hover {
     horizontal-align: middle; */
     position: fixed;
     left: 50%;
+    top:20%;
 }
 
 .icons {
