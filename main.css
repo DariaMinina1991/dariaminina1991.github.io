@@ -46,7 +46,7 @@ a:hover {
     horizontal-align: middle; */
 /*     position: absolute;
     left: 50%; */
-    float: inherit;
+    float: right;
 }
 
 .icons {
