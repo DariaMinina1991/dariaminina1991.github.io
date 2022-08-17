@@ -29,7 +29,7 @@ a:hover {
 }
 
 .content {
-    position: absolute;
+    position: relative;
     top: 40px;
     left: 50%;
     margin-right: -50%;
