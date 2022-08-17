@@ -28,9 +28,9 @@ a:hover {
     color: #217ee7;
 }
 
-#content {
+.content {
     position: absolute;
-    top: 20px;
+    top: 40px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) ;
