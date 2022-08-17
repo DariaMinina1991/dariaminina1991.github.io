@@ -47,9 +47,9 @@ a:hover {
 
 .avatar {
     width: 160px;
-    display: inline-block;
-    horizontal-align: middle;
-/*     position: relative; */
+/*     display: inline-block;
+    horizontal-align: middle; */
+    position: relative;
 }
 
 .icons {
