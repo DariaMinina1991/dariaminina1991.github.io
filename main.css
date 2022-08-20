@@ -41,10 +41,10 @@ a:hover {
 } */
 
 .avatar {
-    width: 201px;
+    width: 206px;
     position: fixed;
 /*     top: -20px; */
-    left: 40% !important;
+    left: 50% !important;
 /*     display: inline-block;
     horizontal-align: middle; */
 /*     text-align:center; */
