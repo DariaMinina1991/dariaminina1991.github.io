@@ -31,8 +31,9 @@ a:hover {
 .li {
     overflow: scroll;
 }
-/* .content {
-    position: fixed;
+.content {
+    overflow: scroll;
+/*     position: fixed;
     top: 40%;
     left: 50%;
     margin-right: -50%;
