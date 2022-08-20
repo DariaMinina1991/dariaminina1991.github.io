@@ -28,9 +28,9 @@ a {
 a:hover {
     color: #217ee7;
 }
-.li {
+/* .li {
     overflow: scroll;
-}
+} */
 .content {
     overflow: scroll;
 /*     position: fixed;
