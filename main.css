@@ -22,7 +22,7 @@ html {
 a {
     text-decoration: none;
     color: #1565c0;
-    overflow: scroll;
+/*     overflow: scroll; */
 }
 
 a:hover {
