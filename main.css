@@ -40,10 +40,10 @@ a:hover {
 } */ */
 
 .avatar {
-    width: 150px;
+    width: 50px;
     position: fixed;
 /*     top: -20px; */
-    left: 45% !important;
+    left: 40% !important;
 /*     display: inline-block;
     horizontal-align: middle; */
 /*     text-align:center; */
