@@ -41,7 +41,7 @@ a:hover {
 
 .avatar {
     width: 200px;
-    position: fixed;
+/*     position: fixed; */
 /*     top: -20px; */
     left: 42% !important;
 /*     display: inline-block;
