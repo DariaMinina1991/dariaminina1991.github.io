@@ -42,7 +42,7 @@ a:hover {
 
 .avatar {
     width: 200px;
-    position: relative;
+/*     position: relative; */
 /*     top: -20px; */
     left: 50% !important;
 /*     display: inline-block;
@@ -66,7 +66,7 @@ a:hover {
 
 .icons li {
     display: inline;
-    position:relative;
+/*     position:relative; */
     width: 42px;
 }
 
