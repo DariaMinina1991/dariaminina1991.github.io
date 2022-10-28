@@ -1,6 +1,6 @@
 html {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1vw;
+    font-size: 3vw;
 /*     font-size: larger; */
     font-weight: 300;
 }
@@ -41,7 +41,7 @@ a:hover {
 } */ 
 
 .avatar {
-    width: 50%;
+    width: 20%;
 /*     position: relative; */
 /*     top: -20px; */
     left: 50% !important;
