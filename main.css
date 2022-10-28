@@ -66,6 +66,7 @@ a:hover {
 
 .icons li {
     display: inline;
+    position: float;
     width: 42px;
 }
 
