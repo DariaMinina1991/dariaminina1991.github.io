@@ -41,7 +41,7 @@ a:hover {
 } */ 
 
 .avatar {
-    width: 200px;
+    width: 50%;
 /*     position: relative; */
 /*     top: -20px; */
     left: 50% !important;
