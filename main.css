@@ -44,6 +44,7 @@ a:hover {
     width: 15%;
 /*     position: relative; */
 /*     top: -20px; */
+    align-items: center;
     left: 60% !important;
 /*     display: inline-block;
     horizontal-align: middle; */
