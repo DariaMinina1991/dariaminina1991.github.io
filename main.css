@@ -45,6 +45,7 @@ a:hover {
 /*     position: relative; */
 /*     top: -20px; */
 /*     display: flex; */
+    display: inline-block;
     align-items: center;
     left: 50% !important;
 /*     display: inline-block;
