@@ -60,20 +60,20 @@ a:hover {
 
 }
 
-/* .icons {
+.icons {
     list-style-type: none;
     font-size: xx-large;
     padding: 0;
     display: flex;
+    text-align: center;
     justify-content: space-between;
     width: 80%;
     max-width: 320px;
     margin: 1em auto;
-} */
+}
 
 .icons li {
 /*     display: inline; */
-    font-size: xx-large;
     display: block;
 /*     position:relative; */
     justify-content: space-between;
