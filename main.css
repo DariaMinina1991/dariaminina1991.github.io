@@ -72,8 +72,8 @@ a:hover {
     display: inline;
 /*     position:relative; */
     position: absolute;
-    bottom: 10px;
-    width: 42px;
+    bottom: 20px;
+    width: 50px;
     margin: 1em auto;
 }
 
