@@ -45,7 +45,8 @@ a:hover {
 /*     position: relative; */
 /*     top: -20px; */
     display: flex;
-    justify-content: "center";
+    justify-content: center;
+    align-items: center;
 /*     display: block; */
 /*     align-items: center; */
 /*     left: 50%; */
