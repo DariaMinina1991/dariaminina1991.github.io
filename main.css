@@ -69,7 +69,8 @@ a:hover {
 }
 
 .icons li {
-    display: inline;
+/*     display: inline; */
+    display: block;
 /*     position:relative; */
     position: absolute;
     padding: 0px 16px;
