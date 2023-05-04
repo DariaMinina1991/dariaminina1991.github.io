@@ -77,6 +77,7 @@ a:hover {
     margin: auto;
     padding: 0;
 }
+   
 .icons li {
     list-style-type: none;
     display: inline-block;
@@ -91,6 +92,28 @@ a:hover {
     bottom: 20px;
     width: 80%;
     margin: 1em auto;  */
+}
+.icons {
+    list-style-type: none;
+    font-size: xx-large;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 320px;
+    margin: 1em auto;
+}
+.icons ul {
+    list-style-type: none;
+    display: table;
+    margin: auto;
+    padding: 0;
+}
+.icons li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 10px;
 }
 
 .icons a {
