@@ -72,6 +72,7 @@ a:hover {
     margin: 1em auto;
 }
 .icons ul {
+    list-style-type: none;
     display: table;
     margin: auto;
     padding: 0;
