@@ -38,7 +38,7 @@ a:hover {
     max-width: 520px;
     padding: 10px;
     line-height: 1.6em; */
-}  */
+/* }  */
 
 /* .avatar {
     width: 15%; */
@@ -56,8 +56,16 @@ a:hover {
 /*     display: inline-block;
     horizontal-align: middle; */
 /*     text-align:center; */
-/*     position: fixed;
+/*  position: fixed;
 
+} */
+.avatar {
+    width: 15%; 
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    left: 50% !important; 
+    padding-bottom: 10px; 
 }
 
 .icons {
@@ -93,15 +101,8 @@ a:hover {
     width: 80%;
     margin: 1em auto;  */
 }
-.avatar {
-    width: 15%; 
-    position: absolute;
-    justify-content: center;
-    align-items: center;
-    left: 50% !important; 
-    padding-bottom: 10px; 
-}
-.icons {
+
+/* .icons {
     list-style-type: none;
     font-size: xx-large;
     padding: 10px;
@@ -122,7 +123,7 @@ a:hover {
     list-style-type: none;
     display: inline-block;
     padding: 10px 10px;
-}
+} */
 
 .icons a {
     color: black;
