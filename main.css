@@ -47,7 +47,7 @@ a:hover {
     display: flex;
 /*     display: block; */
     align-items: center;
-    left: 50%;
+/*     left: 50%; */
     left: 50% !important;
 /*     display: inline-block;
     horizontal-align: middle; */
@@ -73,7 +73,7 @@ a:hover {
 /*     position:relative; */
     position: absolute;
     bottom: 20px;
-    width: 50px;
+    width: 50%;
     margin: 1em auto;
 }
 
