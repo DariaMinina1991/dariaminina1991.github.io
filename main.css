@@ -63,7 +63,7 @@ a:hover {
 .icons {
     list-style-type: none;
     font-size: xx-large;
-    padding: 0;
+    padding: 10px;
     display: flex;
     text-align: center;
     justify-content: space-between;
