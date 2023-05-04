@@ -28,7 +28,7 @@ a {
 a:hover {
     color: #217ee7;
 }
-.content {
+/* .content {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -38,7 +38,7 @@ a:hover {
     max-width: 520px;
     padding: 50px 10px 40px;
     line-height: 1.6em;
-} 
+}  */
 
 .avatar {
     width: 15%;
