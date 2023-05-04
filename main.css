@@ -28,6 +28,12 @@ a {
 a:hover {
     color: #217ee7;
 }
+.main {
+    position: static;
+    padding: 10px;
+    margin: auto;
+    width: 60%;
+}
 /* .content {
     position: fixed;
     top: 50%;
