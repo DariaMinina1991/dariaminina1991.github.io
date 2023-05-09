@@ -90,6 +90,8 @@ a:hover {
 .icons ul {
     list-style-type: none;
     display: table;
+    position: static;
+    bottom: 10px;
     margin: auto;
     padding: 0;
 }
