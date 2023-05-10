@@ -70,7 +70,7 @@ a:hover {
     position: relative;
     justify-content: center;
     align-items: center;
-    left: 50% !important; 
+/*     left: 50% !important;  */
     padding-top: 5px;
 /*     padding-bottom: 5px;  */
 }
