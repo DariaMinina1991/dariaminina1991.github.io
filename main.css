@@ -28,10 +28,10 @@ a {
 a:hover {
     color: #217ee7;
 }
-.column {
+/* .column {
     columns: 2;
     column-gap: 2rem;
-  }
+  } */
 /* .row {
   display: flex;
   flex-wrap: wrap;
