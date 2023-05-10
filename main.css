@@ -32,11 +32,11 @@ a:hover {
     columns: 2;
     column-gap: 2rem;
   }
-.row {
+/* .row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
-}
+} */
 /* .main {
     position: static;
     padding: 10px;
