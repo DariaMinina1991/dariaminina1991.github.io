@@ -28,6 +28,10 @@ a {
 a:hover {
     color: #217ee7;
 }
+.column {
+    columns: 2;
+    column-gap: 2rem;
+  }
 /* .main {
     position: static;
     padding: 10px;
