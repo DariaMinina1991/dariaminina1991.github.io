@@ -68,6 +68,7 @@ a:hover {
 .avatar {
     width: 15%; 
     position: relative;
+    horizontal-align: middle;
     justify-content: center;
     align-items: center;
 /*     left: 50% !important;  */
