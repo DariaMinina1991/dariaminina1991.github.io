@@ -74,11 +74,11 @@ a:hover {
 /*  position: fixed;
 
 } */
-/* .col-6 {
+.col-6 {
   display: flex;
   justify-content: center;
   height: 200px;
-} */
+}
 .avatar {
     width: 15%; 
     position: relative;
