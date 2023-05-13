@@ -81,8 +81,8 @@ a:hover {
     horizontal-align: middle;
     justify-content: center;
     align-items: center;
-/*     left: 50% !important;  */
-    padding-top: 5px;
+    left: 50% !important; 
+    padding-top: 10px;
     padding-bottom:5px;
     margin:auto;
 /*     padding-bottom: 5px;  */
