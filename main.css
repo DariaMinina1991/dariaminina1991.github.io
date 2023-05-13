@@ -74,6 +74,12 @@ a:hover {
 /*  position: fixed;
 
 } */
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
 .avatar {
     width: 15%; 
     position: relative;
