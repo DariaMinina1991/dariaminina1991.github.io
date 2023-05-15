@@ -78,6 +78,7 @@ a:hover {
 #myDiv {
   display: flex;
   justify-content: center;
+  margin:auto;
 /*   height: 30vh; */
 } 
 .center {
