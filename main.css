@@ -75,11 +75,11 @@ a:hover {
 
 } */
 
-/* #myDiv {
+#myDiv {
   display: flex;
   justify-content: center;
 /*   height: 30vh; */
-} */
+} 
 .center {
   display: block;
   margin-left: auto;
