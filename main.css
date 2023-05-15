@@ -80,6 +80,12 @@ a:hover {
   justify-content: center;
   height: 30vh;
 } */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .img-responsive {
     width: 20%; 
     height: 40%;
