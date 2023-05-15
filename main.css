@@ -74,6 +74,12 @@ a:hover {
 /*  position: fixed;
 
 } */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 #myDiv {
   display: flex;
   justify-content: center;
