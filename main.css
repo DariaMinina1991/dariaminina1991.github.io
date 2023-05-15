@@ -81,7 +81,7 @@ a:hover {
 }
 .avatar {
     width: 25%; 
-    height: 300px;
+    height: 200px;
     position: relative;
     display:flex;
     horizontal-align: middle;
