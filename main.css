@@ -74,14 +74,14 @@ a:hover {
 /*  position: fixed;
 
 } */
-#myDiv {
+/* #myDiv {
   display: flex;
   justify-content: center;
   height: 30vh;
-}
+} */
 .img-responsive {
-    width: 30%; 
-    height: 40%;
+    width: 20%; 
+    height: 30%;
 /*     position: relative; */
     display:block;
     horizontal-align: middle;
