@@ -109,6 +109,10 @@ a:hover {
     padding-bottom:5px;
     margin:auto;
 }
+.img{
+    width: 30%; 
+    margin:auto;
+}
 
 .icons {
     list-style-type: none;
