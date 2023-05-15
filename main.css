@@ -80,7 +80,7 @@ a:hover {
   height: 200px;
 }
 .avatar {
-    width: 80%; 
+    width: 50%; 
     position: relative;
     display:block;
     horizontal-align: middle;
