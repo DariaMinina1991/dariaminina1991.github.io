@@ -77,10 +77,11 @@ a:hover {
 .col-6 {
   display: flex;
   justify-content: center;
-  height: 200px;
+  height: 300px;
 }
 .avatar {
     width: 25%; 
+    height: 300px;
     position: relative;
     display:flex;
     horizontal-align: middle;
