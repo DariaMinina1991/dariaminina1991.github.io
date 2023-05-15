@@ -103,7 +103,7 @@ a:hover {
     list-style-type: none;
     font-size: xx-large;
     padding: 10px;
-    position: static;
+    position: relative;
 /*     display: flex; */
     justify-content: center;
     align-items: center;
