@@ -82,7 +82,7 @@ a:hover {
 .img-responsive {
     width: 30%; 
     height: 40%;
-/*     position: relative; */
+    position: relative;
     display:block;
     horizontal-align: middle;
     justify-content: center;
