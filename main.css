@@ -74,7 +74,7 @@ a:hover {
 /*  position: fixed;
 
 } */
-.col-12 {
+.myDiv {
   display: flex;
   justify-content: center;
   height: 30vh;
