@@ -80,7 +80,7 @@ a:hover {
   justify-content: center;
 /*   margin:auto; */
   padding-bottom:2%;
-  height: 40vh;
+/*   height: 40vh; */
 } 
 #myDiv2 {
   display: flex;
