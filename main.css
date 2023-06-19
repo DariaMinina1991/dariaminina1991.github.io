@@ -105,6 +105,7 @@ a:hover {
     position: static;
     display: block;
     horizontal-align: middle;
+    object-fit: cover;
     justify-content: center;
     align-items: center;
     padding-top: 10px;
