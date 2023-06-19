@@ -100,6 +100,13 @@ a:hover {
   padding-top: 50%;
   height: 70vh;
 } 
+#myDiv5 {
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  padding-top: 10px;
+  height: 40vh;
+} 
 /* .center {
   display: block;
   margin-left: auto;
