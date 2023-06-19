@@ -133,9 +133,9 @@ a:hover {
     list-style-type: none;
     display: table;
     position: relative;
-    bottom: 10px;
+    bottom: 5%;
     margin: auto;
-    padding: 10px;
+    padding: 5%;
 }
    
 .icons li {
