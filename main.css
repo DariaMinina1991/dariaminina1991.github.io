@@ -119,7 +119,7 @@ a:hover {
     width: 30%; 
     height: auto;
 /*     position: static; */
-    display: inline-block;
+    display: block;
     horizontal-align: middle;
     object-fit: contain;
     object-position: center;
