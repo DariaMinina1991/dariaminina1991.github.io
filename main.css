@@ -97,8 +97,8 @@ a:hover {
   display: flex;
   justify-content: center;
   margin-top:10%;
-  padding-top: 50%;
-  height: 70vh;
+  padding-top: 50px;
+  height: 80vh;
 } 
 #myDiv5 {
   display: flex;
