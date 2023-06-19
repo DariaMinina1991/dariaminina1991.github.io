@@ -117,7 +117,7 @@ a:hover {
 } */
 .img-responsive {
     width: 30%; 
-    height: 95%;
+    height: auto;
     position: static;
     display: block;
     horizontal-align: middle;
