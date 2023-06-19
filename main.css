@@ -93,6 +93,12 @@ a:hover {
   margin:auto;
   bottom: 5%;
 } 
+#myDiv4 {
+  display: flex;
+  justify-content: center;
+  margin:auto;
+  height: 70vh;
+} 
 /* .center {
   display: block;
   margin-left: auto;
