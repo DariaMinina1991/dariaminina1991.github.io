@@ -99,7 +99,7 @@ a:hover {
   margin-right: auto;
   width: 50%;
 } */
-.img-responsive {
+.responsive {
     width: 20%; 
     height: 30%;
     position: static;
