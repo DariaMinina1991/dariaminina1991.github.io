@@ -117,6 +117,14 @@ a:hover {
   margin-left: 5%;
   height: 40vh;
 } 
+#myDiv7 {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  margin-right: 5%;
+  margin-left: 5%;
+  height: 40vh;
+} 
 /* .center {
   display: block;
   margin-left: auto;
