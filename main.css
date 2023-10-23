@@ -130,6 +130,7 @@ a:hover {
   height: 40vh;
 } 
 #myDiv8 {
+  justify-content: center;
   margin-top: 5%
   margin-right: 5%;
   margin-left: 5%;
