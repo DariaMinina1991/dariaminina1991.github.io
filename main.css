@@ -116,8 +116,8 @@ a:hover {
 #myDiv6 {
   display: flex;
   justify-content: center;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 10%;
+  margin-left: 10%;
   height: 40vh;
 } 
 #myDiv7 {
