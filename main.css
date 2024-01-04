@@ -4,7 +4,7 @@ html {
 /*     font-size: larger; */
     font-weight: 300;
 }
-/* .navbar a {
+.navbar a {
   float: left;
   display: block;
   color: #f2f2f2;
@@ -12,19 +12,19 @@ html {
   padding: 4px 8px;
   text-decoration: none;
   font-size: 17px;
-} */
+}
 /* .navbar ul{
     display: flex;
     list-style: none;
     justify-content: space-around ;
 } */
-.sticky {
+/* .sticky {
 	position: -webkit-sticky;
 	display: block;
 	float: left;
 	position: sticky;
 	top: 0;
-}
+} */
 .navbar li {
   float:left;
   display: block;
