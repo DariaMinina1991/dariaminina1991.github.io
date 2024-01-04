@@ -13,12 +13,17 @@ html {
   text-decoration: none;
   font-size: 17px;
 } */
-.navbar li {
+.sticky {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+/* .navbar li {
   float:left;
   display: block;
   padding: 0 16px 5px;
   list-style-type: none;
-}
+} */
 
 a {
     text-decoration: none;
