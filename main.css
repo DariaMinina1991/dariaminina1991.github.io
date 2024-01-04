@@ -25,12 +25,12 @@ html {
 	position: sticky;
 	top: 0;
 }
-/* .navbar li {
+.navbar li {
   float:left;
   display: block;
   padding: 0 16px 5px;
   list-style-type: none;
-} */
+}
 
 a {
     text-decoration: none;
