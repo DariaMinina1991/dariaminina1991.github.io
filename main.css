@@ -40,10 +40,11 @@ a {
 a:hover {
     color: #217ee7;
 }
-.container-fluid {
+#myDiv10 {
    display: flex;
    flex-direction: column;
    align-items: center;
+   height: 40vh;
 }
 /* .column {
     columns: 2;
